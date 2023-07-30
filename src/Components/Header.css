@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800&family=Sedgwick+Ave+Display&display=swap');
+/* * {
+    border: solid 1px black
+}*/
+.info {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;  
+    padding: 10px;
+}
+.menu-assine {
+    display: flex;
+}
+.ContaGlobo-buscar{
+    display: flex;
+}
+.menubuttom{
+    padding-left: 0px;
+}
+.menutext{
+    padding-left: 12px;
+    padding-right: 10px;
+}
+.assinetext{
+    padding-left: 10px;
+}
+.contaglobo{
+    padding-right: 5px;
+}
+.people{
+    padding-right: 10px;
+}
+.buscartext{
+    padding-left: 10px;
+    padding-right: 5px;
+}
+.navBar{
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    font-family: inter;
+    font-weight: bold;
+}
+.line_hor {
+    border: 1px solid rgba(0, 0, 0, 0.1);
+}

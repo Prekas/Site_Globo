@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800&family=Sedgwick+Ave+Display&display=swap');
+.noticias {
+    padding-top: 20px;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+}
+.g1 {
+    width: 30vw;
+    font-family: inter;
+    color: #C4170C;
+    border-right: solid 2px rgba(0, 0, 0, 0.1);
+}
+.esportes {
+    width: 30vw;
+    font-family: inter;
+    color: #06AA48;
+    border-right: solid 2px rgba(0, 0, 0, 0.1);
+}
+.gshow {
+    width: 30vw;
+    font-family: inter;
+    color: #FF6700;
+    border-right: solid 2px rgba(0, 0, 0, 0.1);
+}
+.sub{
+    color: black;
+}
